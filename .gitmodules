@@ -373,3 +373,13 @@
 	url = https://github.com/lbusett/phenoriceR
 	shallow = true
 	registered = true
+[submodule "sprawl"]
+	path = sprawl
+	url = https://github.com/lbusett/sprawl
+	shallow = true
+	registered = false
+[submodule "sprawl.data"]
+	path = sprawl.data
+	url = https://github.com/lbusett/sprawl.data
+	shallow = true
+	registered = false
