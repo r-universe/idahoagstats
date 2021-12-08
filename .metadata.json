@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "package": "agridat",
+    "oncran": true
+  },
+  {
+    "package": "desplot",
+    "oncran": true
+  },
+  {
+    "package": "rnassqs",
+    "oncran": true
+  }
+]
