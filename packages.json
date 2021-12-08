@@ -1,0 +1,14 @@
+[
+    {
+        "package": "agridat",
+        "url": "https://cran.r-project.org/package=agridat"
+    },
+    {
+        "package": "desplot",
+        "url": "https://cran.r-project.org/package=desplot"
+    },
+    {
+        "package": "tidyUSDA",
+        "url": "https://cran.r-project.org/package=tidyUSDA"
+    }
+]
