@@ -31,8 +31,7 @@
     "oncran": false
   },
   {
-    "package": "binnednp",
-    "oncran": false
+    "package": "binnednp"
   },
   {
     "package": "BGLR",
