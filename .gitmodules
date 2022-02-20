@@ -20,7 +20,7 @@
 	registered = true
 [submodule "agroBioData"]
 	path = agroBioData
-	url =  https://github.com/OnofriAndreaPG/agriCensData
+	url = https://github.com/OnofriAndreaPG/agriCensData
 	shallow = true
 	registered = true
 [submodule "apsimx"]
@@ -55,7 +55,7 @@
 	registered = true
 [submodule "breedR"]
 	path = breedR
-	url =  https://github.com/famuvie/breedR
+	url = https://github.com/famuvie/breedR
 	shallow = true
 	registered = true
 [submodule "cdlTools"]
@@ -90,7 +90,7 @@
 	registered = true
 [submodule "EnvRtype"]
 	path = EnvRtype
-	url =  https://github.com/allogamous/EnvRtype
+	url = https://github.com/allogamous/EnvRtype
 	shallow = true
 	registered = true
 [submodule "epifitter"]
@@ -105,7 +105,7 @@
 	registered = true
 [submodule "fabio"]
 	path = fabio
-	url =  https://github.com/fineprint-global/fabio
+	url = https://github.com/fineprint-global/fabio
 	shallow = true
 	registered = true
 [submodule "FedData"]
@@ -115,12 +115,12 @@
 	registered = true
 [submodule "fertplan"]
 	path = fertplan
-	url =  https://github.com/mbask/fertplan
+	url = https://github.com/mbask/fertplan
 	shallow = true
 	registered = true
 [submodule "ggfertilizer"]
 	path = ggfertilizer
-	url =  https://github.com/wenlong-liu/ggfertilizer
+	url = https://github.com/wenlong-liu/ggfertilizer
 	shallow = true
 	registered = true
 [submodule "gge"]
@@ -155,12 +155,12 @@
 	registered = true
 [submodule "lme4gs"]
 	path = lme4gs
-	url =  https://github.com/perpdgo/lme4GS
+	url = https://github.com/perpdgo/lme4GS
 	shallow = true
 	registered = true
 [submodule "lme4qtl"]
 	path = lme4qtl
-	url =  https://github.com/variani/lme4qtl
+	url = https://github.com/variani/lme4qtl
 	shallow = true
 	registered = true
 [submodule "mappoly"]
@@ -170,7 +170,7 @@
 	registered = true
 [submodule "MapRtools"]
 	path = MapRtools
-	url =  https://github.com/jendelman/MapRtools
+	url = https://github.com/jendelman/MapRtools
 	shallow = true
 	registered = true
 [submodule "MCMCglmm"]
@@ -180,7 +180,7 @@
 	registered = true
 [submodule "MegaLMM"]
 	path = MegaLMM
-	url =  https://github.com/deruncie/MegaLMM/
+	url = https://github.com/deruncie/MegaLMM
 	shallow = true
 	registered = true
 [submodule "nlme"]
@@ -275,7 +275,7 @@
 	registered = true
 [submodule "simplePHENOTYPES"]
 	path = simplePHENOTYPES
-	url =  https://github.com/samuelbfernandes/simplePHENOTYPES
+	url = https://github.com/samuelbfernandes/simplePHENOTYPES
 	shallow = true
 	registered = true
 [submodule "sommer"]
