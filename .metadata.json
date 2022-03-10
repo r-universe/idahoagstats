@@ -72,8 +72,7 @@
     "oncran": false
   },
   {
-    "package": "epiphy",
-    "oncran": false
+    "package": "epiphy"
   },
   {
     "package": "fabio"
