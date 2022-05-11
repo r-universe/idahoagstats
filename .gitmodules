@@ -5,52 +5,47 @@
 	branch = HEAD
 [submodule "AGHmatrix"]
 	path = AGHmatrix
-	url = http://github.com/cran/AGHmatrix
+	url = https://github.com/rramadeu/AGHmatrix
 	shallow = true
 	registered = true
 [submodule "agridat"]
 	path = agridat
-	url = http://github.com/cran/agridat
+	url = https://github.com/kwstat/agridat
 	shallow = true
 	registered = true
 [submodule "agriTutorial"]
 	path = agriTutorial
-	url = http://github.com/cran/agriTutorial
+	url = https://github.com/myaseen208/agriTutorial
 	shallow = true
 	registered = true
-[submodule "agroBioData"]
-	path = agroBioData
+[submodule "agroCensData"]
+	path = agroCensData
 	url = https://github.com/OnofriAndreaPG/agriCensData
 	shallow = true
 	registered = true
 [submodule "apsimx"]
 	path = apsimx
-	url = http://github.com/cran/apsimx
+	url = https://github.com/femiguez/apsimx
 	shallow = true
 	registered = true
 [submodule "aqp"]
 	path = aqp
-	url = http://github.com/cran/aqp
+	url = https://github.com/ncss-tech/aqp
 	shallow = true
 	registered = true
 [submodule "asremlPlus"]
 	path = asremlPlus
-	url = http://github.com/cran/asremlPlus
+	url = https://github.com/briencj/asremlPlus
 	shallow = true
 	registered = true
 [submodule "bayesammi"]
 	path = bayesammi
-	url = http://github.com/cran/bayesammi
-	shallow = true
-	registered = true
-[submodule "binnednp"]
-	path = binnednp
-	url = http://github.com/cran/binnednp
+	url = https://github.com/myaseen208/bayesammi
 	shallow = true
 	registered = true
 [submodule "BGLR"]
 	path = BGLR
-	url = http://github.com/cran/BGLR
+	url = https://github.com/gdlc/BGLR-R
 	shallow = true
 	registered = true
 [submodule "breedR"]
@@ -60,266 +55,16 @@
 	registered = true
 [submodule "cdlTools"]
 	path = cdlTools
-	url = http://github.com/cran/cdlTools
+	url = https://github.com/jlisic/cdlTools
 	shallow = true
 	registered = true
 [submodule "CropScapeR"]
 	path = CropScapeR
-	url = http://github.com/cran/CropScapeR
+	url = https://github.com/cbw1243/CropScapeR
 	shallow = true
 	registered = true
 [submodule "desplot"]
 	path = desplot
-	url = http://github.com/cran/desplot
-	shallow = true
-	registered = true
-[submodule "drc"]
-	path = drc
-	url = http://github.com/cran/drc
-	shallow = true
-	registered = true
-[submodule "DSSAT"]
-	path = DSSAT
-	url = http://github.com/cran/DSSAT
-	shallow = true
-	registered = true
-[submodule "emmeans"]
-	path = emmeans
-	url = http://github.com/cran/emmeans
-	shallow = true
-	registered = true
-[submodule "EnvRtype"]
-	path = EnvRtype
-	url = https://github.com/allogamous/EnvRtype
-	shallow = true
-	registered = true
-[submodule "epifitter"]
-	path = epifitter
-	url = http://github.com/cran/epifitter
-	shallow = true
-	registered = true
-[submodule "epiphy"]
-	path = epiphy
-	url = http://github.com/cran/epiphy
-	shallow = true
-	registered = true
-[submodule "fabio"]
-	path = fabio
-	url = https://github.com/fineprint-global/fabio
-	shallow = true
-	registered = true
-[submodule "FedData"]
-	path = FedData
-	url = http://github.com/cran/FedData
-	shallow = true
-	registered = true
-[submodule "fertplan"]
-	path = fertplan
-	url = https://github.com/mbask/fertplan
-	shallow = true
-	registered = true
-[submodule "ggfertilizer"]
-	path = ggfertilizer
-	url = https://github.com/wenlong-liu/ggfertilizer
-	shallow = true
-	registered = true
-[submodule "gge"]
-	path = gge
-	url = http://github.com/cran/gge
-	shallow = true
-	registered = true
-[submodule "hagis"]
-	path = hagis
-	url = http://github.com/cran/hagis
-	shallow = true
-	registered = true
-[submodule "hnp"]
-	path = hnp
-	url = http://github.com/cran/hnp
-	shallow = true
-	registered = true
-[submodule "IBCF.MTME"]
-	path = IBCF.MTME
-	url = http://github.com/cran/IBCF.MTME
-	shallow = true
-	registered = true
-[submodule "LinkageMapView"]
-	path = LinkageMapView
-	url = http://github.com/cran/LinkageMapView
-	shallow = true
-	registered = true
-[submodule "lme4"]
-	path = lme4
-	url = http://github.com/cran/lme4
-	shallow = true
-	registered = true
-[submodule "lme4gs"]
-	path = lme4gs
-	url = https://github.com/perpdgo/lme4GS
-	shallow = true
-	registered = true
-[submodule "lme4qtl"]
-	path = lme4qtl
-	url = https://github.com/variani/lme4qtl
-	shallow = true
-	registered = true
-[submodule "mappoly"]
-	path = mappoly
-	url = http://github.com/cran/mappoly
-	shallow = true
-	registered = true
-[submodule "MapRtools"]
-	path = MapRtools
-	url = https://github.com/jendelman/MapRtools
-	shallow = true
-	registered = true
-[submodule "MCMCglmm"]
-	path = MCMCglmm
-	url = http://github.com/cran/MCMCglmm
-	shallow = true
-	registered = true
-[submodule "MegaLMM"]
-	path = MegaLMM
-	url = https://github.com/deruncie/MegaLMM
-	shallow = true
-	registered = true
-[submodule "nlme"]
-	path = nlme
-	url = http://github.com/cran/nlme
-	shallow = true
-	registered = true
-[submodule "nlraa"]
-	path = nlraa
-	url = http://github.com/cran/nlraa
-	shallow = true
-	registered = true
-[submodule "pedigreemm"]
-	path = pedigreemm
-	url = http://github.com/cran/pedigreemm
-	shallow = true
-	registered = true
-[submodule "polymapR"]
-	path = polymapR
-	url = http://github.com/cran/polymapR
-	shallow = true
-	registered = true
-[submodule "polyqtlR"]
-	path = polyqtlR
-	url = http://github.com/cran/polyqtlR
-	shallow = true
-	registered = true
-[submodule "poppr"]
-	path = poppr
-	url = http://github.com/cran/poppr
-	shallow = true
-	registered = true
-[submodule "PROSPER"]
-	path = PROSPER
-	url = http://github.com/cran/PROSPER
-	shallow = true
-	registered = true
-[submodule "qgtools"]
-	path = qgtools
-	url = http://github.com/cran/qgtools
-	shallow = true
-	registered = true
-[submodule "qtl"]
-	path = qtl
-	url = http://github.com/cran/qtl
-	shallow = true
-	registered = true
-[submodule "qtlpoly"]
-	path = qtlpoly
-	url = http://github.com/cran/qtlpoly
-	shallow = true
-	registered = true
-[submodule "rapsimng"]
-	path = rapsimng
-	url = http://github.com/cran/rapsimng
-	shallow = true
-	registered = true
-[submodule "rarms"]
-	path = rarms
-	url = http://github.com/cran/rarms
-	shallow = true
-	registered = true
-[submodule "rMVP"]
-	path = rMVP
-	url = http://github.com/cran/rMVP
-	shallow = true
-	registered = true
-[submodule "rnassqs"]
-	path = rnassqs
-	url = http://github.com/cran/rnassqs
-	shallow = true
-	registered = true
-[submodule "rnoaa"]
-	path = rnoaa
-	url = http://github.com/cran/rnoaa
-	shallow = true
-	registered = true
-[submodule "rrBLUP"]
-	path = rrBLUP
-	url = http://github.com/cran/rrBLUP
-	shallow = true
-	registered = true
-[submodule "rusda"]
-	path = rusda
-	url = http://github.com/cran/rusda
-	shallow = true
-	registered = true
-[submodule "sharpshootR"]
-	path = sharpshootR
-	url = http://github.com/cran/sharpshootR
-	shallow = true
-	registered = true
-[submodule "simplePHENOTYPES"]
-	path = simplePHENOTYPES
-	url = https://github.com/samuelbfernandes/simplePHENOTYPES
-	shallow = true
-	registered = true
-[submodule "sommer"]
-	path = sommer
-	url = http://github.com/cran/sommer
-	shallow = true
-	registered = true
-[submodule "soilDB"]
-	path = soilDB
-	url = http://github.com/cran/soilDB
-	shallow = true
-	registered = true
-[submodule "SoilTaxonomy"]
-	path = SoilTaxonomy
-	url = http://github.com/cran/SoilTaxonomy
-	shallow = true
-	registered = true
-[submodule "soyNAM"]
-	path = soyNAM
-	url = http://github.com/cran/soyNAM
-	shallow = true
-	registered = true
-[submodule "statgenGWAS"]
-	path = statgenGWAS
-	url = http://github.com/cran/statgenGWAS
-	shallow = true
-	registered = true
-[submodule "statgenGxE"]
-	path = statgenGxE
-	url = http://github.com/cran/statgenGxE
-	shallow = true
-	registered = true
-[submodule "statgenSTA"]
-	path = statgenSTA
-	url = http://github.com/cran/statgenSTA
-	shallow = true
-	registered = true
-[submodule "tidyUSDA"]
-	path = tidyUSDA
-	url = http://github.com/cran/tidyUSDA
-	shallow = true
-	registered = true
-[submodule "usdamrp"]
-	path = usdamrp
-	url = http://github.com/cran/usdamrp
+	url = https://github.com/kwstat/desplot
 	shallow = true
 	registered = true
