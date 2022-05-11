@@ -48,5 +48,27 @@
   {
     "package": "desplot",
     "oncran": true
+  },
+  {
+    "package": "drc",
+    "oncran": false
+  },
+  {
+    "package": "DSSAT",
+    "oncran": true
+  },
+  {
+    "package": "emmeans",
+    "oncran": true
+  },
+  {
+    "package": "EnvRtype"
+  },
+  {
+    "package": "epifitter",
+    "oncran": true
+  },
+  {
+    "package": "epiphy"
   }
 ]

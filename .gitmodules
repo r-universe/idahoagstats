@@ -68,3 +68,33 @@
 	url = https://github.com/kwstat/desplot
 	shallow = true
 	registered = true
+[submodule "drc"]
+	path = drc
+	url = https://github.com/DoseResponse/drc
+	shallow = true
+	registered = true
+[submodule "DSSAT"]
+	path = DSSAT
+	url = https://github.com/palderman/DSSAT
+	shallow = true
+	registered = true
+[submodule "emmeans"]
+	path = emmeans
+	url = https://github.com/rvlenth/emmeans
+	shallow = true
+	registered = true
+[submodule "EnvRtype"]
+	path = EnvRtype
+	url = https://github.com/allogamous/EnvRtype
+	shallow = true
+	registered = true
+[submodule "epifitter"]
+	path = epifitter
+	url = https://github.com/AlvesKS/epifitter
+	shallow = true
+	registered = true
+[submodule "epiphy"]
+	path = epiphy
+	url = https://github.com/chgigot/epiphy
+	shallow = true
+	registered = true
