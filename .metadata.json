@@ -105,9 +105,6 @@
     "oncran": true
   },
   {
-    "package": "lme4GS"
-  },
-  {
     "package": "lme4qtl"
   },
   {
