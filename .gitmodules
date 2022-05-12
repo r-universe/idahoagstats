@@ -145,7 +145,7 @@
 	registered = true
 [submodule "lme4GS"]
 	path = lme4GS
-	url = https://github.com/perpdgo/lme4GS
+	url = https://github.com/perpdgo/lme4GS/tree/master/pkg_src/lme4GS
 	shallow = true
 	registered = true
 [submodule "lme4qtl"]
@@ -180,7 +180,7 @@
 	registered = true
 [submodule "pedigreemm"]
 	path = pedigreemm
-	url = https://github.com/r-forge/pedigreemm
+	url = https://github.com/cran/pedigreemm
 	shallow = true
 	registered = true
 [submodule "polymapR"]

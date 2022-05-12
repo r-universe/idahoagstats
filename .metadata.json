@@ -130,7 +130,7 @@
   },
   {
     "package": "pedigreemm",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "polymapR",
