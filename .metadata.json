@@ -4,15 +4,15 @@
     "oncran": true
   },
   {
+    "package": "agriCensData"
+  },
+  {
     "package": "agridat",
     "oncran": true
   },
   {
     "package": "agriTutorial",
     "oncran": false
-  },
-  {
-    "package": "agriCensData"
   },
   {
     "package": "apsimx",
@@ -50,6 +50,9 @@
     "oncran": true
   },
   {
+    "package": "diaQTL"
+  },
+  {
     "package": "drc",
     "oncran": false
   },
@@ -82,11 +85,14 @@
     "package": "fertplan"
   },
   {
+    "package": "gge",
+    "oncran": true
+  },
+  {
     "package": "ggfertilizer"
   },
   {
-    "package": "gge",
-    "oncran": true
+    "package": "GWASpoly"
   },
   {
     "package": "hagis",
@@ -95,6 +101,9 @@
   {
     "package": "IBCF.MTME",
     "oncran": true
+  },
+  {
+    "package": "INLA"
   },
   {
     "package": "LinkageMapView",
@@ -125,12 +134,25 @@
     "package": "MegaLMM"
   },
   {
+    "package": "meteor",
+    "oncran": true
+  },
+  {
     "package": "nlraa",
     "oncran": true
   },
   {
     "package": "pedigreemm",
     "oncran": false
+  },
+  {
+    "package": "phenorice"
+  },
+  {
+    "package": "phenoriceR"
+  },
+  {
+    "package": "polyBreedR"
   },
   {
     "package": "polymapR",
@@ -169,6 +191,10 @@
     "oncran": false
   },
   {
+    "package": "Recocrop",
+    "oncran": true
+  },
+  {
     "package": "rMVP",
     "oncran": true
   },
@@ -181,12 +207,20 @@
     "oncran": true
   },
   {
+    "package": "Rquefts",
+    "oncran": true
+  },
+  {
     "package": "rrBLUP",
     "oncran": false
   },
   {
     "package": "rusda",
     "oncran": false
+  },
+  {
+    "package": "Rwofost",
+    "oncran": true
   },
   {
     "package": "sharpshootR",
@@ -197,10 +231,6 @@
     "oncran": true
   },
   {
-    "package": "sommer",
-    "oncran": false
-  },
-  {
     "package": "soilDB",
     "oncran": true
   },
@@ -209,8 +239,15 @@
     "oncran": true
   },
   {
+    "package": "sommer",
+    "oncran": false
+  },
+  {
     "package": "SoyNAM",
     "oncran": false
+  },
+  {
+    "package": "StageWise"
   },
   {
     "package": "statgenGWAS",
@@ -219,6 +256,18 @@
   {
     "package": "statgenGxE",
     "oncran": true
+  },
+  {
+    "package": "statgenHTP",
+    "oncran": true
+  },
+  {
+    "package": "statgenIBD",
+    "oncran": true
+  },
+  {
+    "package": "statgenMPP",
+    "oncran": false
   },
   {
     "package": "statgenSTA",
@@ -231,51 +280,5 @@
   {
     "package": "usdampr",
     "oncran": true
-  },
-  {
-    "package": "polyBreedR"
-  },
-  {
-    "package": "GWASpoly"
-  },
-  {
-    "package": "StageWise"
-  },
-  {
-    "package": "diaQTL"
-  },
-  {
-    "package": "statgenIBD",
-    "oncran": true
-  },
-  {
-    "package": "statgenMPP",
-    "oncran": false
-  },
-  {
-    "package": "statgenHTP",
-    "oncran": true
-  },
-  {
-    "package": "Recocrop",
-    "oncran": true
-  },
-  {
-    "package": "Rwofost",
-    "oncran": true
-  },
-  {
-    "package": "meteor",
-    "oncran": true
-  },
-  {
-    "package": "Rquefts",
-    "oncran": true
-  },
-  {
-    "package": "phenorice"
-  },
-  {
-    "package": "phenoriceR"
   }
 ]
