@@ -105,7 +105,7 @@
     "oncran": true
   },
   {
-    "package": "lme4gs"
+    "package": "lme4GS"
   },
   {
     "package": "lme4qtl"
@@ -125,16 +125,8 @@
     "package": "MegaLMM"
   },
   {
-    "package": "nlme",
-    "oncran": false
-  },
-  {
     "package": "nlraa",
     "oncran": true
-  },
-  {
-    "package": "pedigreemm",
-    "oncran": false
   },
   {
     "package": "polymapR",
@@ -178,7 +170,7 @@
   },
   {
     "package": "rnassqs",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rnoaa",
@@ -213,7 +205,8 @@
     "oncran": true
   },
   {
-    "package": "soyNAM"
+    "package": "SoyNAM",
+    "oncran": false
   },
   {
     "package": "statgenGWAS",
@@ -256,6 +249,7 @@
     "oncran": false
   },
   {
-    "package": "stagenHTP"
+    "package": "statgenHTP",
+    "oncran": true
   }
 ]

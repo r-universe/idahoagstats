@@ -143,9 +143,9 @@
 	url = https://github.com/lme4/lme4
 	shallow = true
 	registered = true
-[submodule "lme4gs"]
-	path = lme4gs
-	url = https://github.com/perpdgo/lme4GS
+[submodule "lme4GS"]
+	path = lme4GS
+	url = https://github.com/perpdgo/lme4GS/tree/master/pkg_src/lme4GS
 	shallow = true
 	registered = true
 [submodule "lme4qtl"]
@@ -173,19 +173,9 @@
 	url = https://github.com/deruncie/MegaLMM
 	shallow = true
 	registered = true
-[submodule "nlme"]
-	path = nlme
-	url = https://svn.r-project.org/R-packages/trunk/nlme
-	shallow = true
-	registered = true
 [submodule "nlraa"]
 	path = nlraa
 	url = https://github.com/femiguez/nlraa
-	shallow = true
-	registered = true
-[submodule "pedigreemm"]
-	path = pedigreemm
-	url = Svn://svn.r-forge.r-project.org/svnroot/pedigreemm
 	shallow = true
 	registered = true
 [submodule "polymapR"]
@@ -240,7 +230,7 @@
 	registered = true
 [submodule "rnassqs"]
 	path = rnassqs
-	url = https://docs.ropensci.org/rnassqs
+	url = https://github.com/ropensci/rnassqs
 	shallow = true
 	registered = true
 [submodule "rnoaa"]
@@ -283,8 +273,8 @@
 	url = https://github.com/ncss-tech/SoilTaxonomy
 	shallow = true
 	registered = true
-[submodule "soyNAM"]
-	path = soyNAM
+[submodule "SoyNAM"]
+	path = SoyNAM
 	url = https://github.com/alenxav/SoyNAM
 	shallow = true
 	registered = true
@@ -343,8 +333,8 @@
 	url = https://github.com/Biometris/statgenMPP
 	shallow = true
 	registered = true
-[submodule "stagenHTP"]
-	path = stagenHTP
+[submodule "statgenHTP"]
+	path = statgenHTP
 	url = https://github.com/Biometris/statgenHTP
 	shallow = true
 	registered = true
