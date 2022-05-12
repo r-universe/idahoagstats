@@ -105,6 +105,9 @@
     "oncran": true
   },
   {
+    "package": "lme4GS"
+  },
+  {
     "package": "lme4qtl"
   },
   {
@@ -123,6 +126,10 @@
   },
   {
     "package": "nlraa",
+    "oncran": true
+  },
+  {
+    "package": "pedigreemm",
     "oncran": true
   },
   {
@@ -248,5 +255,27 @@
   {
     "package": "statgenHTP",
     "oncran": true
+  },
+  {
+    "package": "Recocrop",
+    "oncran": true
+  },
+  {
+    "package": "Rwofost",
+    "oncran": true
+  },
+  {
+    "package": "meteor",
+    "oncran": true
+  },
+  {
+    "package": "Rquefts",
+    "oncran": true
+  },
+  {
+    "package": "phenorice"
+  },
+  {
+    "package": "phenoriceR"
   }
 ]

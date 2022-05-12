@@ -143,6 +143,11 @@
 	url = https://github.com/lme4/lme4
 	shallow = true
 	registered = true
+[submodule "lme4GS"]
+	path = lme4GS
+	url = https://github.com/perpdgo/lme4GS
+	shallow = true
+	registered = true
 [submodule "lme4qtl"]
 	path = lme4qtl
 	url = https://github.com/variani/lme4qtl
@@ -171,6 +176,11 @@
 [submodule "nlraa"]
 	path = nlraa
 	url = https://github.com/femiguez/nlraa
+	shallow = true
+	registered = true
+[submodule "pedigreemm"]
+	path = pedigreemm
+	url = https://github.com/r-forge/pedigreemm
 	shallow = true
 	registered = true
 [submodule "polymapR"]
@@ -331,5 +341,35 @@
 [submodule "statgenHTP"]
 	path = statgenHTP
 	url = https://github.com/Biometris/statgenHTP
+	shallow = true
+	registered = true
+[submodule "Recocrop"]
+	path = Recocrop
+	url = https://github.com/cropmodels/Recocrop
+	shallow = true
+	registered = true
+[submodule "Rwofost"]
+	path = Rwofost
+	url = https://github.com/cropmodels/Rwofost
+	shallow = true
+	registered = true
+[submodule "meteor"]
+	path = meteor
+	url = https://github.com/cropmodels/meteor
+	shallow = true
+	registered = true
+[submodule "Rquefts"]
+	path = Rquefts
+	url = https://github.com/cropmodels/Rquefts
+	shallow = true
+	registered = true
+[submodule "phenorice"]
+	path = phenorice
+	url = https://github.com/cropmodels/phenorice
+	shallow = true
+	registered = true
+[submodule "phenoriceR"]
+	path = phenoriceR
+	url = https://github.com/lbusett/phenoriceR
 	shallow = true
 	registered = true
