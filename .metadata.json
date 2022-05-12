@@ -12,7 +12,7 @@
     "oncran": false
   },
   {
-    "package": "agroCensData"
+    "package": "agriCensData"
   },
   {
     "package": "apsimx",
@@ -70,5 +70,192 @@
   },
   {
     "package": "epiphy"
+  },
+  {
+    "package": "fabio"
+  },
+  {
+    "package": "FedData",
+    "oncran": true
+  },
+  {
+    "package": "fertplan"
+  },
+  {
+    "package": "ggfertilizer"
+  },
+  {
+    "package": "gge",
+    "oncran": true
+  },
+  {
+    "package": "hagis",
+    "oncran": true
+  },
+  {
+    "package": "IBCF.MTME",
+    "oncran": true
+  },
+  {
+    "package": "LinkageMapView",
+    "oncran": true
+  },
+  {
+    "package": "lme4",
+    "oncran": true
+  },
+  {
+    "package": "lme4gs"
+  },
+  {
+    "package": "lme4qtl"
+  },
+  {
+    "package": "mappoly",
+    "oncran": true
+  },
+  {
+    "package": "MapRtools"
+  },
+  {
+    "package": "MCMCglmm",
+    "oncran": false
+  },
+  {
+    "package": "MegaLMM"
+  },
+  {
+    "package": "nlme",
+    "oncran": false
+  },
+  {
+    "package": "nlraa",
+    "oncran": true
+  },
+  {
+    "package": "pedigreemm",
+    "oncran": false
+  },
+  {
+    "package": "polymapR",
+    "oncran": false
+  },
+  {
+    "package": "polyqtlR",
+    "oncran": false
+  },
+  {
+    "package": "poppr",
+    "oncran": true
+  },
+  {
+    "package": "PROSPER",
+    "oncran": false
+  },
+  {
+    "package": "qgtools",
+    "oncran": false
+  },
+  {
+    "package": "qtl",
+    "oncran": true
+  },
+  {
+    "package": "qtlpoly",
+    "oncran": true
+  },
+  {
+    "package": "rapsimng",
+    "oncran": true
+  },
+  {
+    "package": "rarms",
+    "oncran": false
+  },
+  {
+    "package": "rMVP",
+    "oncran": true
+  },
+  {
+    "package": "rnassqs",
+    "oncran": false
+  },
+  {
+    "package": "rnoaa",
+    "oncran": true
+  },
+  {
+    "package": "rrBLUP",
+    "oncran": false
+  },
+  {
+    "package": "rusda",
+    "oncran": false
+  },
+  {
+    "package": "sharpshootR",
+    "oncran": true
+  },
+  {
+    "package": "simplePHENOTYPES",
+    "oncran": true
+  },
+  {
+    "package": "sommer",
+    "oncran": false
+  },
+  {
+    "package": "soilDB",
+    "oncran": true
+  },
+  {
+    "package": "SoilTaxonomy",
+    "oncran": true
+  },
+  {
+    "package": "soyNAM"
+  },
+  {
+    "package": "statgenGWAS",
+    "oncran": true
+  },
+  {
+    "package": "statgenGxE",
+    "oncran": true
+  },
+  {
+    "package": "statgenSTA",
+    "oncran": true
+  },
+  {
+    "package": "tidyUSDA",
+    "oncran": true
+  },
+  {
+    "package": "usdampr",
+    "oncran": true
+  },
+  {
+    "package": "polyBreedR"
+  },
+  {
+    "package": "GWASpoly"
+  },
+  {
+    "package": "StageWise"
+  },
+  {
+    "package": "diaQTL"
+  },
+  {
+    "package": "statgenIBD",
+    "oncran": true
+  },
+  {
+    "package": "statgenMPP",
+    "oncran": false
+  },
+  {
+    "package": "stagenHTP"
   }
 ]

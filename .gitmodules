@@ -18,8 +18,8 @@
 	url = https://github.com/myaseen208/agriTutorial
 	shallow = true
 	registered = true
-[submodule "agroCensData"]
-	path = agroCensData
+[submodule "agriCensData"]
+	path = agriCensData
 	url = https://github.com/OnofriAndreaPG/agriCensData
 	shallow = true
 	registered = true
@@ -96,5 +96,255 @@
 [submodule "epiphy"]
 	path = epiphy
 	url = https://github.com/chgigot/epiphy
+	shallow = true
+	registered = true
+[submodule "fabio"]
+	path = fabio
+	url = https://github.com/fineprint-global/fabio
+	shallow = true
+	registered = true
+[submodule "FedData"]
+	path = FedData
+	url = https://github.com/ropensci/FedData
+	shallow = true
+	registered = true
+[submodule "fertplan"]
+	path = fertplan
+	url = https://github.com/mbask/fertplan
+	shallow = true
+	registered = true
+[submodule "ggfertilizer"]
+	path = ggfertilizer
+	url = https://github.com/wenlong-liu/ggfertilizer
+	shallow = true
+	registered = true
+[submodule "gge"]
+	path = gge
+	url = https://github.com/kwstat/gge
+	shallow = true
+	registered = true
+[submodule "hagis"]
+	path = hagis
+	url = https://github.com/openplantpathology/hagis
+	shallow = true
+	registered = true
+[submodule "IBCF.MTME"]
+	path = IBCF.MTME
+	url = https://github.com/frahik/IBCF.MTME
+	shallow = true
+	registered = true
+[submodule "LinkageMapView"]
+	path = LinkageMapView
+	url = https://github.com/bio-services/LinkageMapView
+	shallow = true
+	registered = true
+[submodule "lme4"]
+	path = lme4
+	url = https://github.com/lme4/lme4
+	shallow = true
+	registered = true
+[submodule "lme4gs"]
+	path = lme4gs
+	url = https://github.com/perpdgo/lme4GS
+	shallow = true
+	registered = true
+[submodule "lme4qtl"]
+	path = lme4qtl
+	url = https://github.com/variani/lme4qtl
+	shallow = true
+	registered = true
+[submodule "mappoly"]
+	path = mappoly
+	url = https://github.com/mmollina/MAPpoly
+	shallow = true
+	registered = true
+[submodule "MapRtools"]
+	path = MapRtools
+	url = https://github.com/jendelman/MapRtools
+	shallow = true
+	registered = true
+[submodule "MCMCglmm"]
+	path = MCMCglmm
+	url = https://github.com/jarrodhadfield/MCMCglmm
+	shallow = true
+	registered = true
+[submodule "MegaLMM"]
+	path = MegaLMM
+	url = https://github.com/deruncie/MegaLMM
+	shallow = true
+	registered = true
+[submodule "nlme"]
+	path = nlme
+	url = https://svn.r-project.org/R-packages/trunk/nlme
+	shallow = true
+	registered = true
+[submodule "nlraa"]
+	path = nlraa
+	url = https://github.com/femiguez/nlraa
+	shallow = true
+	registered = true
+[submodule "pedigreemm"]
+	path = pedigreemm
+	url = Svn://svn.r-forge.r-project.org/svnroot/pedigreemm
+	shallow = true
+	registered = true
+[submodule "polymapR"]
+	path = polymapR
+	url = http://github.com/cran/polymapR
+	shallow = true
+	registered = true
+[submodule "polyqtlR"]
+	path = polyqtlR
+	url = http://github.com/cran/polyqtlR
+	shallow = true
+	registered = true
+[submodule "poppr"]
+	path = poppr
+	url = https://github.com/grunwaldlab/poppr
+	shallow = true
+	registered = true
+[submodule "PROSPER"]
+	path = PROSPER
+	url = http://github.com/cran/PROSPER
+	shallow = true
+	registered = true
+[submodule "qgtools"]
+	path = qgtools
+	url = http://github.com/cran/qgtools
+	shallow = true
+	registered = true
+[submodule "qtl"]
+	path = qtl
+	url = https://github.com/kbroman/qtl
+	shallow = true
+	registered = true
+[submodule "qtlpoly"]
+	path = qtlpoly
+	url = https://github.com/gabrielgesteira/QTLpoly
+	shallow = true
+	registered = true
+[submodule "rapsimng"]
+	path = rapsimng
+	url = https://github.com/byzheng/rapsimng
+	shallow = true
+	registered = true
+[submodule "rarms"]
+	path = rarms
+	url = https://github.com/cbw1243/rarms
+	shallow = true
+	registered = true
+[submodule "rMVP"]
+	path = rMVP
+	url = https://github.com/xiaolei-lab/rMVP
+	shallow = true
+	registered = true
+[submodule "rnassqs"]
+	path = rnassqs
+	url = https://docs.ropensci.org/rnassqs
+	shallow = true
+	registered = true
+[submodule "rnoaa"]
+	path = rnoaa
+	url = https://github.com/ropensci/rnoaa
+	shallow = true
+	registered = true
+[submodule "rrBLUP"]
+	path = rrBLUP
+	url = http://github.com/cran/rrBLUP
+	shallow = true
+	registered = true
+[submodule "rusda"]
+	path = rusda
+	url = https://github.com/ropensci/rusda
+	shallow = true
+	registered = true
+[submodule "sharpshootR"]
+	path = sharpshootR
+	url = https://github.com/ncss-tech/sharpshootR
+	shallow = true
+	registered = true
+[submodule "simplePHENOTYPES"]
+	path = simplePHENOTYPES
+	url = https://github.com/samuelbfernandes/simplePHENOTYPES
+	shallow = true
+	registered = true
+[submodule "sommer"]
+	path = sommer
+	url = https://github.com/covaruber/sommer
+	shallow = true
+	registered = true
+[submodule "soilDB"]
+	path = soilDB
+	url = https://github.com/ncss-tech/soilDB
+	shallow = true
+	registered = true
+[submodule "SoilTaxonomy"]
+	path = SoilTaxonomy
+	url = https://github.com/ncss-tech/SoilTaxonomy
+	shallow = true
+	registered = true
+[submodule "soyNAM"]
+	path = soyNAM
+	url = https://github.com/alenxav/SoyNAM
+	shallow = true
+	registered = true
+[submodule "statgenGWAS"]
+	path = statgenGWAS
+	url = https://github.com/Biometris/statgenGWAS
+	shallow = true
+	registered = true
+[submodule "statgenGxE"]
+	path = statgenGxE
+	url = https://github.com/Biometris/statgenGxE
+	shallow = true
+	registered = true
+[submodule "statgenSTA"]
+	path = statgenSTA
+	url = https://github.com/Biometris/statgenSTA
+	shallow = true
+	registered = true
+[submodule "tidyUSDA"]
+	path = tidyUSDA
+	url = https://github.com/bradlindblad/tidyUSDA
+	shallow = true
+	registered = true
+[submodule "usdampr"]
+	path = usdampr
+	url = https://github.com/cbw1243/usdampr
+	shallow = true
+	registered = true
+[submodule "polyBreedR"]
+	path = polyBreedR
+	url = https://github.com/jendelman/polyBreedR
+	shallow = true
+	registered = true
+[submodule "GWASpoly"]
+	path = GWASpoly
+	url = https://github.com/jendelman/GWASpoly
+	shallow = true
+	registered = true
+[submodule "StageWise"]
+	path = StageWise
+	url = https://github.com/jendelman/StageWise
+	shallow = true
+	registered = true
+[submodule "diaQTL"]
+	path = diaQTL
+	url = https://github.com/jendelman/diaQTL
+	shallow = true
+	registered = true
+[submodule "statgenIBD"]
+	path = statgenIBD
+	url = https://github.com/Biometris/statgenIBD
+	shallow = true
+	registered = true
+[submodule "statgenMPP"]
+	path = statgenMPP
+	url = https://github.com/Biometris/statgenMPP
+	shallow = true
+	registered = true
+[submodule "stagenHTP"]
+	path = stagenHTP
+	url = https://github.com/Biometris/statgenHTP
 	shallow = true
 	registered = true
