@@ -380,7 +380,7 @@
 	registered = true
 [submodule "FAOSTAT"]
 	path = FAOSTAT
-	url = https://gitlab.com/faostatpackage/FAOSTAT
+	url = https://github.com/cran/FAOSTAT
 	shallow = true
 	registered = true
 [submodule "faobulk"]
