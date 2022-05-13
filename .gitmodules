@@ -373,6 +373,21 @@
 	url = https://github.com/cbw1243/usdampr
 	shallow = true
 	registered = true
+[submodule "agricolae"]
+	path = agricolae
+	url = https://github.com/myaseen208/agricolae
+	shallow = true
+	registered = true
+[submodule "FAOSTAT"]
+	path = FAOSTAT
+	url = https://gitlab.com/paulrougieux/faostatpackage
+	shallow = true
+	registered = true
+[submodule "faobulk"]
+	path = faobulk
+	url = https://github.com/muuankarski/faobulk
+	shallow = true
+	registered = true
 [submodule "sprawl"]
 	path = sprawl
 	url = https://github.com/lbusett/sprawl

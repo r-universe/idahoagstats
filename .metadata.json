@@ -277,5 +277,16 @@
   {
     "package": "usdampr",
     "oncran": true
+  },
+  {
+    "package": "agricolae",
+    "oncran": false
+  },
+  {
+    "package": "FAOSTAT",
+    "oncran": true
+  },
+  {
+    "package": "faobulk"
   }
 ]
