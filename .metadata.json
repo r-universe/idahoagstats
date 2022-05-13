@@ -7,6 +7,10 @@
     "package": "agriCensData"
   },
   {
+    "package": "agricolae",
+    "oncran": false
+  },
+  {
     "package": "agridat",
     "oncran": true
   },
@@ -76,6 +80,13 @@
   },
   {
     "package": "fabio"
+  },
+  {
+    "package": "faobulk"
+  },
+  {
+    "package": "FAOSTAT",
+    "oncran": false
   },
   {
     "package": "FedData",
@@ -279,14 +290,15 @@
     "oncran": true
   },
   {
-    "package": "agricolae",
+    "package": "NutrienTrackeR",
     "oncran": false
   },
   {
-    "package": "FAOSTAT",
-    "oncran": false
+    "package": "onemap",
+    "oncran": true
   },
   {
-    "package": "faobulk"
+    "package": "ASMap",
+    "oncran": false
   }
 ]

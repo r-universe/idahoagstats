@@ -13,6 +13,11 @@
 	url = https://github.com/OnofriAndreaPG/agriCensData
 	shallow = true
 	registered = true
+[submodule "agricolae"]
+	path = agricolae
+	url = https://github.com/myaseen208/agricolae
+	shallow = true
+	registered = true
 [submodule "agridat"]
 	path = agridat
 	url = https://github.com/kwstat/agridat
@@ -106,6 +111,16 @@
 [submodule "fabio"]
 	path = fabio
 	url = https://github.com/fineprint-global/fabio
+	shallow = true
+	registered = true
+[submodule "faobulk"]
+	path = faobulk
+	url = https://github.com/muuankarski/faobulk
+	shallow = true
+	registered = true
+[submodule "FAOSTAT"]
+	path = FAOSTAT
+	url = https://github.com/cran/FAOSTAT
 	shallow = true
 	registered = true
 [submodule "FedData"]
@@ -373,19 +388,19 @@
 	url = https://github.com/cbw1243/usdampr
 	shallow = true
 	registered = true
-[submodule "agricolae"]
-	path = agricolae
-	url = https://github.com/myaseen208/agricolae
+[submodule "NutrienTrackeR"]
+	path = NutrienTrackeR
+	url = https://github.com/AndreaRMICL/NutrienTrackeR
 	shallow = true
 	registered = true
-[submodule "FAOSTAT"]
-	path = FAOSTAT
-	url = https://github.com/cran/FAOSTAT
+[submodule "onemap"]
+	path = onemap
+	url = https://github.com/augusto-garcia/onemap
 	shallow = true
 	registered = true
-[submodule "faobulk"]
-	path = faobulk
-	url = https://github.com/muuankarski/faobulk
+[submodule "ASMap"]
+	path = ASMap
+	url = https://github.com/cran/ASMap
 	shallow = true
 	registered = true
 [submodule "sprawl"]
