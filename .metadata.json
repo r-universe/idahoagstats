@@ -27,6 +27,10 @@
     "oncran": true
   },
   {
+    "package": "ASMap",
+    "oncran": false
+  },
+  {
     "package": "asremlPlus",
     "oncran": false
   },
@@ -121,6 +125,10 @@
     "oncran": true
   },
   {
+    "package": "lmDiallel",
+    "oncran": false
+  },
+  {
     "package": "lme4",
     "oncran": true
   },
@@ -150,8 +158,16 @@
     "oncran": true
   },
   {
-    "package": "pedigreemm",
+    "package": "NutrienTrackeR",
     "oncran": false
+  },
+  {
+    "package": "onemap",
+    "oncran": true
+  },
+  {
+    "package": "pedigreemm",
+    "oncran": true
   },
   {
     "package": "phenorice"
@@ -255,6 +271,9 @@
     "oncran": false
   },
   {
+    "package": "st4gi"
+  },
+  {
     "package": "StageWise"
   },
   {
@@ -288,17 +307,5 @@
   {
     "package": "usdampr",
     "oncran": true
-  },
-  {
-    "package": "NutrienTrackeR",
-    "oncran": false
-  },
-  {
-    "package": "onemap",
-    "oncran": true
-  },
-  {
-    "package": "ASMap",
-    "oncran": false
   }
 ]

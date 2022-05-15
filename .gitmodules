@@ -38,6 +38,11 @@
 	url = https://github.com/ncss-tech/aqp
 	shallow = true
 	registered = true
+[submodule "ASMap"]
+	path = ASMap
+	url = https://github.com/cran/ASMap
+	shallow = true
+	registered = true
 [submodule "asremlPlus"]
 	path = asremlPlus
 	url = https://github.com/briencj/asremlPlus
@@ -168,6 +173,11 @@
 	url = https://github.com/bio-services/LinkageMapView
 	shallow = true
 	registered = true
+[submodule "lmDiallel"]
+	path = lmDiallel
+	url = https://github.com/OnofriAndreaPG/lmDiallel
+	shallow = true
+	registered = true
 [submodule "lme4"]
 	path = lme4
 	url = https://github.com/lme4/lme4
@@ -208,9 +218,19 @@
 	url = https://github.com/femiguez/nlraa
 	shallow = true
 	registered = true
+[submodule "NutrienTrackeR"]
+	path = NutrienTrackeR
+	url = https://github.com/AndreaRMICL/NutrienTrackeR
+	shallow = true
+	registered = true
+[submodule "onemap"]
+	path = onemap
+	url = https://github.com/augusto-garcia/onemap
+	shallow = true
+	registered = true
 [submodule "pedigreemm"]
 	path = pedigreemm
-	url = https://github.com/cran/pedigreemm
+	url = https://github.com/r-forge/pedigreemm
 	shallow = true
 	registered = true
 [submodule "phenorice"]
@@ -343,6 +363,11 @@
 	url = https://github.com/alenxav/SoyNAM
 	shallow = true
 	registered = true
+[submodule "st4gi"]
+	path = st4gi
+	url = https://github.com/reyzaguirre/st4gi
+	shallow = true
+	registered = true
 [submodule "StageWise"]
 	path = StageWise
 	url = https://github.com/jendelman/StageWise
@@ -386,21 +411,6 @@
 [submodule "usdampr"]
 	path = usdampr
 	url = https://github.com/cbw1243/usdampr
-	shallow = true
-	registered = true
-[submodule "NutrienTrackeR"]
-	path = NutrienTrackeR
-	url = https://github.com/AndreaRMICL/NutrienTrackeR
-	shallow = true
-	registered = true
-[submodule "onemap"]
-	path = onemap
-	url = https://github.com/augusto-garcia/onemap
-	shallow = true
-	registered = true
-[submodule "ASMap"]
-	path = ASMap
-	url = https://github.com/cran/ASMap
 	shallow = true
 	registered = true
 [submodule "sprawl"]
