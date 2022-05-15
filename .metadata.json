@@ -1,160 +1,55 @@
 [
   {
-    "package": "AGHmatrix",
-    "oncran": true
-  },
-  {
-    "package": "agriCensData"
-  },
-  {
-    "package": "agricolae",
-    "oncran": false
-  },
-  {
-    "package": "agridat",
-    "oncran": true
-  },
-  {
-    "package": "agriTutorial",
-    "oncran": false
-  },
-  {
-    "package": "apsimx",
-    "oncran": true
-  },
-  {
-    "package": "aqp",
-    "oncran": true
-  },
-  {
-    "package": "ASMap",
-    "oncran": false
-  },
-  {
-    "package": "asremlPlus",
-    "oncran": false
-  },
-  {
-    "package": "bayesammi",
-    "oncran": false
-  },
-  {
-    "package": "BGLR",
-    "oncran": false
-  },
-  {
-    "package": "breedR"
-  },
-  {
-    "package": "cdlTools",
-    "oncran": true
-  },
-  {
-    "package": "CropScapeR",
-    "oncran": false
-  },
-  {
-    "package": "desplot",
-    "oncran": true
-  },
-  {
-    "package": "diaQTL"
-  },
-  {
-    "package": "drc",
-    "oncran": false
-  },
-  {
-    "package": "DSSAT",
-    "oncran": true
-  },
-  {
-    "package": "emmeans",
-    "oncran": true
-  },
-  {
-    "package": "EnvRtype"
-  },
-  {
-    "package": "epifitter",
-    "oncran": true
-  },
-  {
-    "package": "epiphy"
+    "package": "MegaLMM"
   },
   {
     "package": "fabio"
   },
   {
-    "package": "faobulk"
-  },
-  {
-    "package": "FAOSTAT",
-    "oncran": false
-  },
-  {
-    "package": "FedData",
-    "oncran": true
+    "package": "MapRtools"
   },
   {
     "package": "fertplan"
   },
   {
-    "package": "gge",
-    "oncran": true
-  },
-  {
-    "package": "ggfertilizer"
-  },
-  {
-    "package": "GWASpoly"
-  },
-  {
-    "package": "hagis",
-    "oncran": true
-  },
-  {
-    "package": "IBCF.MTME",
-    "oncran": true
-  },
-  {
-    "package": "INLA"
-  },
-  {
-    "package": "LinkageMapView",
-    "oncran": true
-  },
-  {
-    "package": "lmDiallel",
-    "oncran": false
-  },
-  {
-    "package": "lme4",
+    "package": "simplePHENOTYPES",
     "oncran": true
   },
   {
     "package": "lme4qtl"
   },
   {
-    "package": "mappoly",
-    "oncran": true
+    "package": "ggfertilizer"
   },
   {
-    "package": "MapRtools"
-  },
-  {
-    "package": "MCMCglmm",
+    "package": "polymapR",
     "oncran": false
   },
   {
-    "package": "MegaLMM"
+    "package": "polyqtlR",
+    "oncran": false
   },
   {
-    "package": "meteor",
-    "oncran": true
+    "package": "PROSPER",
+    "oncran": false
   },
   {
-    "package": "nlraa",
+    "package": "qgtools",
+    "oncran": false
+  },
+  {
+    "package": "rrBLUP",
+    "oncran": false
+  },
+  {
+    "package": "SoyNAM",
+    "oncran": false
+  },
+  {
+    "package": "EnvRtype"
+  },
+  {
+    "package": "epifitter",
     "oncran": true
   },
   {
@@ -166,115 +61,8 @@
     "oncran": true
   },
   {
-    "package": "pedigreemm",
+    "package": "LinkageMapView",
     "oncran": true
-  },
-  {
-    "package": "phenorice"
-  },
-  {
-    "package": "phenoriceR"
-  },
-  {
-    "package": "polyBreedR"
-  },
-  {
-    "package": "polymapR",
-    "oncran": false
-  },
-  {
-    "package": "polyqtlR",
-    "oncran": false
-  },
-  {
-    "package": "poppr",
-    "oncran": true
-  },
-  {
-    "package": "PROSPER",
-    "oncran": false
-  },
-  {
-    "package": "qgtools",
-    "oncran": false
-  },
-  {
-    "package": "qtl",
-    "oncran": true
-  },
-  {
-    "package": "qtlpoly",
-    "oncran": true
-  },
-  {
-    "package": "rapsimng",
-    "oncran": true
-  },
-  {
-    "package": "rarms",
-    "oncran": false
-  },
-  {
-    "package": "Recocrop",
-    "oncran": true
-  },
-  {
-    "package": "rMVP",
-    "oncran": true
-  },
-  {
-    "package": "rnassqs",
-    "oncran": true
-  },
-  {
-    "package": "rnoaa",
-    "oncran": true
-  },
-  {
-    "package": "Rquefts",
-    "oncran": true
-  },
-  {
-    "package": "rrBLUP",
-    "oncran": false
-  },
-  {
-    "package": "rusda",
-    "oncran": false
-  },
-  {
-    "package": "Rwofost",
-    "oncran": true
-  },
-  {
-    "package": "sharpshootR",
-    "oncran": true
-  },
-  {
-    "package": "simplePHENOTYPES",
-    "oncran": true
-  },
-  {
-    "package": "soilDB",
-    "oncran": true
-  },
-  {
-    "package": "SoilTaxonomy",
-    "oncran": true
-  },
-  {
-    "package": "sommer",
-    "oncran": false
-  },
-  {
-    "package": "SoyNAM",
-    "oncran": false
-  },
-  {
-    "package": "st4gi"
-  },
-  {
-    "package": "StageWise"
   },
   {
     "package": "statgenGWAS",
@@ -305,7 +93,219 @@
     "oncran": true
   },
   {
+    "package": "asremlPlus",
+    "oncran": false
+  },
+  {
+    "package": "rapsimng",
+    "oncran": true
+  },
+  {
+    "package": "CropScapeR",
+    "oncran": false
+  },
+  {
+    "package": "rarms",
+    "oncran": false
+  },
+  {
     "package": "usdampr",
+    "oncran": true
+  },
+  {
+    "package": "epiphy"
+  },
+  {
+    "package": "sommer",
+    "oncran": false
+  },
+  {
+    "package": "ASMap",
+    "oncran": false
+  },
+  {
+    "package": "FAOSTAT",
+    "oncran": false
+  },
+  {
+    "package": "pedigreemm",
+    "oncran": false
+  },
+  {
+    "package": "meteor",
+    "oncran": true
+  },
+  {
+    "package": "phenorice"
+  },
+  {
+    "package": "Recocrop",
+    "oncran": true
+  },
+  {
+    "package": "Rquefts",
+    "oncran": true
+  },
+  {
+    "package": "Rwofost",
+    "oncran": true
+  },
+  {
+    "package": "drc",
+    "oncran": false
+  },
+  {
+    "package": "breedR"
+  },
+  {
+    "package": "apsimx",
+    "oncran": true
+  },
+  {
+    "package": "nlraa",
+    "oncran": true
+  },
+  {
+    "package": "IBCF.MTME",
+    "oncran": true
+  },
+  {
+    "package": "qtlpoly",
+    "oncran": true
+  },
+  {
+    "package": "BGLR",
+    "oncran": false
+  },
+  {
+    "package": "poppr",
+    "oncran": true
+  },
+  {
+    "package": "INLA"
+  },
+  {
+    "package": "MCMCglmm",
+    "oncran": false
+  },
+  {
+    "package": "diaQTL"
+  },
+  {
+    "package": "GWASpoly"
+  },
+  {
+    "package": "polyBreedR"
+  },
+  {
+    "package": "StageWise"
+  },
+  {
+    "package": "cdlTools",
+    "oncran": true
+  },
+  {
+    "package": "qtl",
+    "oncran": true
+  },
+  {
+    "package": "agridat",
+    "oncran": true
+  },
+  {
+    "package": "desplot",
+    "oncran": true
+  },
+  {
+    "package": "gge",
+    "oncran": true
+  },
+  {
+    "package": "FW"
+  },
+  {
+    "package": "lme4",
+    "oncran": true
+  },
+  {
+    "package": "mappoly",
+    "oncran": true
+  },
+  {
+    "package": "faobulk"
+  },
+  {
+    "package": "agricolae",
+    "oncran": false
+  },
+  {
+    "package": "agriTutorial",
+    "oncran": false
+  },
+  {
+    "package": "bayesammi",
+    "oncran": false
+  },
+  {
+    "package": "aqp",
+    "oncran": true
+  },
+  {
+    "package": "sharpshootR",
+    "oncran": true
+  },
+  {
+    "package": "soilDB",
+    "oncran": true
+  },
+  {
+    "package": "SoilTaxonomy",
+    "oncran": true
+  },
+  {
+    "package": "agriCensData"
+  },
+  {
+    "package": "lmDiallel",
+    "oncran": false
+  },
+  {
+    "package": "hagis",
+    "oncran": true
+  },
+  {
+    "package": "DSSAT",
+    "oncran": true
+  },
+  {
+    "package": "st4gi"
+  },
+  {
+    "package": "FedData",
+    "oncran": true
+  },
+  {
+    "package": "rnassqs",
+    "oncran": true
+  },
+  {
+    "package": "rnoaa",
+    "oncran": true
+  },
+  {
+    "package": "rusda",
+    "oncran": false
+  },
+  {
+    "package": "AGHmatrix",
+    "oncran": true
+  },
+  {
+    "package": "emmeans",
+    "oncran": true
+  },
+  {
+    "package": "rMVP",
     "oncran": true
   }
 ]
