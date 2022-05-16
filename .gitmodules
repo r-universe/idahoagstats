@@ -418,3 +418,13 @@
 	url = https://github.com/cbw1243/usdampr
 	shallow = true
 	registered = true
+[submodule "cpgen"]
+	path = cpgen
+	url = https://github.com/cheuerde/cpgen
+	shallow = true
+	registered = true
+[submodule "ascoTraceR"]
+	path = ascoTraceR
+	url = https://github.com/IhsanKhaliq/ascotraceR
+	shallow = true
+	registered = true

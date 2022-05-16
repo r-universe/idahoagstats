@@ -311,5 +311,11 @@
   {
     "package": "usdampr",
     "oncran": true
+  },
+  {
+    "package": "cpgen"
+  },
+  {
+    "package": "ascoTraceR"
   }
 ]
