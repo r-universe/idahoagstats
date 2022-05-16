@@ -428,3 +428,8 @@
 	url = https://github.com/IhsanKhaliq/ascotraceR
 	shallow = true
 	registered = true
+[submodule "SpATS"]
+	path = SpATS
+	url = https://CRAN.R-project.org/package=SpATS
+	shallow = true
+	registered = true

@@ -317,5 +317,9 @@
   },
   {
     "package": "ascoTraceR"
+  },
+  {
+    "package": "SpATS",
+    "oncran": false
   }
 ]
