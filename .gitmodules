@@ -38,6 +38,11 @@
 	url = https://github.com/ncss-tech/aqp
 	shallow = true
 	registered = true
+[submodule "ascoTraceR"]
+	path = ascoTraceR
+	url = https://github.com/IhsanKhaliq/ascotraceR
+	shallow = true
+	registered = true
 [submodule "ASMap"]
 	path = ASMap
 	url = https://github.com/cran/ASMap
@@ -68,6 +73,11 @@
 	url = https://github.com/jlisic/cdlTools
 	shallow = true
 	registered = true
+[submodule "cpgen"]
+	path = cpgen
+	url = https://github.com/cheuerde/cpgen
+	shallow = true
+	registered = true
 [submodule "CropScapeR"]
 	path = CropScapeR
 	url = https://github.com/cbw1243/CropScapeR
@@ -91,11 +101,6 @@
 [submodule "DSSAT"]
 	path = DSSAT
 	url = https://github.com/palderman/DSSAT
-	shallow = true
-	registered = true
-[submodule "emmeans"]
-	path = emmeans
-	url = https://github.com/rvlenth/emmeans
 	shallow = true
 	registered = true
 [submodule "EnvRtype"]
@@ -183,11 +188,6 @@
 	url = https://github.com/OnofriAndreaPG/lmDiallel
 	shallow = true
 	registered = true
-[submodule "lme4"]
-	path = lme4
-	url = https://github.com/lme4/lme4
-	shallow = true
-	registered = true
 [submodule "lme4qtl"]
 	path = lme4qtl
 	url = https://github.com/variani/lme4qtl
@@ -216,11 +216,6 @@
 [submodule "meteor"]
 	path = meteor
 	url = https://github.com/cropmodels/meteor
-	shallow = true
-	registered = true
-[submodule "nlme"]
-	path = nlme
-	url = https://github.com/cran/nlme
 	shallow = true
 	registered = true
 [submodule "nlraa"]
@@ -368,6 +363,11 @@
 	url = https://github.com/alenxav/SoyNAM
 	shallow = true
 	registered = true
+[submodule "SpATS"]
+	path = SpATS
+	url = https://CRAN.R-project.org/package=SpATS
+	shallow = true
+	registered = true
 [submodule "st4gi"]
 	path = st4gi
 	url = https://github.com/reyzaguirre/st4gi
@@ -416,20 +416,5 @@
 [submodule "usdampr"]
 	path = usdampr
 	url = https://github.com/cbw1243/usdampr
-	shallow = true
-	registered = true
-[submodule "cpgen"]
-	path = cpgen
-	url = https://github.com/cheuerde/cpgen
-	shallow = true
-	registered = true
-[submodule "ascoTraceR"]
-	path = ascoTraceR
-	url = https://github.com/IhsanKhaliq/ascotraceR
-	shallow = true
-	registered = true
-[submodule "SpATS"]
-	path = SpATS
-	url = https://CRAN.R-project.org/package=SpATS
 	shallow = true
 	registered = true
