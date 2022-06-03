@@ -418,3 +418,43 @@
 	url = https://github.com/cbw1243/usdampr
 	shallow = true
 	registered = true
+[submodule "AlphaSimR"]
+	path = AlphaSimR
+	url = https://github.com/gaynorr/AlphaSimR
+	shallow = true
+	registered = true
+[submodule "Xpolaris"]
+	path = Xpolaris
+	url = https://github.com/lhmrosso/XPolari
+	shallow = true
+	registered = true
+[submodule "soiltestcorr"]
+	path = soiltestcorr
+	url = https://github.com/adriancorrendo/soiltestcorr
+	shallow = true
+	registered = true
+[submodule "metrica"]
+	path = metrica
+	url = https://github.com/adriancorrendo/metrica
+	shallow = true
+	registered = true
+[submodule "landsepi"]
+	path = landsepi
+	url = https://gitlab.paca.inrae.fr/CSIRO-INRA/landsepi
+	shallow = true
+	registered = true
+[submodule "mvngGrAd"]
+	path = mvngGrAd
+	url = https://github.com/cran/mvngGrAd
+	shallow = true
+	registered = true
+[submodule "ALUES"]
+	path = ALUES
+	url = https://github.com/alstat/ALUES
+	shallow = true
+	registered = true
+[submodule "AgroReg"]
+	path = AgroReg
+	url = https://github.com/cran/AgroReg
+	shallow = true
+	registered = true

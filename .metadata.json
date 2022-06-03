@@ -309,5 +309,36 @@
   {
     "package": "usdampr",
     "oncran": true
+  },
+  {
+    "package": "AlphaSimR",
+    "oncran": true
+  },
+  {
+    "package": "Xpolaris"
+  },
+  {
+    "package": "soiltestcorr",
+    "oncran": true
+  },
+  {
+    "package": "metrica",
+    "oncran": true
+  },
+  {
+    "package": "landsepi",
+    "oncran": false
+  },
+  {
+    "package": "mvngGrAd",
+    "oncran": false
+  },
+  {
+    "package": "ALUES",
+    "oncran": true
+  },
+  {
+    "package": "AgroReg",
+    "oncran": false
   }
 ]
