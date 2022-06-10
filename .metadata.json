@@ -340,5 +340,31 @@
   {
     "package": "AgroReg",
     "oncran": false
+  },
+  {
+    "package": "MoBPS",
+    "oncran": false
+  },
+  {
+    "package": "prism",
+    "oncran": true
+  },
+  {
+    "package": "SISINTAR"
+  },
+  {
+    "package": "agromet"
+  },
+  {
+    "package": "ag5Tools",
+    "oncran": true
+  },
+  {
+    "package": "gosset",
+    "oncran": true
+  },
+  {
+    "package": "ClimMobTools",
+    "oncran": true
   }
 ]

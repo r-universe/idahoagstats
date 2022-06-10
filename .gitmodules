@@ -458,3 +458,38 @@
 	url = https://github.com/cran/AgroReg
 	shallow = true
 	registered = true
+[submodule "MoBPS"]
+	path = MoBPS
+	url = https://github.com/tpook92/mobps
+	shallow = true
+	registered = true
+[submodule "prism"]
+	path = prism
+	url = https://github.com/ropensci/prism
+	shallow = true
+	registered = true
+[submodule "SISINTAR"]
+	path = SISINTAR
+	url = https://github.com/INTA-Suelos/SISINTAR
+	shallow = true
+	registered = true
+[submodule "agromet"]
+	path = agromet
+	url = https://github.com/AgRoMeteorologiaINTA/agromet
+	shallow = true
+	registered = true
+[submodule "ag5Tools"]
+	path = ag5Tools
+	url = https://github.com/agrdatasci/ag5Tools
+	shallow = true
+	registered = true
+[submodule "gosset"]
+	path = gosset
+	url = https://github.com/agrdatasci/gosset
+	shallow = true
+	registered = true
+[submodule "ClimMobTools"]
+	path = ClimMobTools
+	url = https://github.com/AgrDataSci/ClimMobTools
+	shallow = true
+	registered = true
