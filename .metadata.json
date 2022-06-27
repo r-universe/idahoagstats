@@ -1,7 +1,15 @@
 [
   {
+    "package": "ag5Tools",
+    "oncran": true
+  },
+  {
     "package": "AGHmatrix",
     "oncran": true
+  },
+  {
+    "package": "AGPRIS",
+    "oncran": false
   },
   {
     "package": "agriCensData"
@@ -9,6 +17,10 @@
   {
     "package": "agricolae",
     "oncran": false
+  },
+  {
+    "package": "agricolaeplotr",
+    "oncran": true
   },
   {
     "package": "agridat",
@@ -19,6 +31,17 @@
     "oncran": false
   },
   {
+    "package": "agromet"
+  },
+  {
+    "package": "AlphaSimR",
+    "oncran": true
+  },
+  {
+    "package": "ALUES",
+    "oncran": true
+  },
+  {
     "package": "apsimx",
     "oncran": true
   },
@@ -27,11 +50,8 @@
     "oncran": true
   },
   {
-    "package": "ascoTraceR"
-  },
-  {
-    "package": "ASMap",
-    "oncran": false
+    "package": "ascotraceR",
+    "oncran": true
   },
   {
     "package": "asremlPlus",
@@ -46,6 +66,10 @@
     "oncran": false
   },
   {
+    "package": "biotools",
+    "oncran": true
+  },
+  {
     "package": "breedR"
   },
   {
@@ -53,11 +77,34 @@
     "oncran": true
   },
   {
+    "package": "ClimMobTools",
+    "oncran": true
+  },
+  {
     "package": "cpgen"
+  },
+  {
+    "package": "cropdatape",
+    "oncran": true
+  },
+  {
+    "package": "cropDemand",
+    "oncran": true
+  },
+  {
+    "package": "CropDetecR"
+  },
+  {
+    "package": "cropgrowdays",
+    "oncran": true
   },
   {
     "package": "CropScapeR",
     "oncran": false
+  },
+  {
+    "package": "cropZoning",
+    "oncran": true
   },
   {
     "package": "desplot",
@@ -91,15 +138,14 @@
     "package": "faobulk"
   },
   {
-    "package": "FAOSTAT",
-    "oncran": false
-  },
-  {
     "package": "FedData",
     "oncran": true
   },
   {
     "package": "fertplan"
+  },
+  {
+    "package": "frost"
   },
   {
     "package": "FW"
@@ -110,6 +156,14 @@
   },
   {
     "package": "ggfertilizer"
+  },
+  {
+    "package": "gosset",
+    "oncran": true
+  },
+  {
+    "package": "grapesAgri1",
+    "oncran": true
   },
   {
     "package": "GWASpoly"
@@ -124,6 +178,10 @@
   },
   {
     "package": "INLA"
+  },
+  {
+    "package": "landsepi",
+    "oncran": false
   },
   {
     "package": "LinkageMapView",
@@ -155,6 +213,14 @@
     "oncran": true
   },
   {
+    "package": "metrica",
+    "oncran": true
+  },
+  {
+    "package": "MoBPS",
+    "oncran": false
+  },
+  {
     "package": "nlraa",
     "oncran": true
   },
@@ -167,34 +233,18 @@
     "oncran": true
   },
   {
-    "package": "pedigreemm",
-    "oncran": false
-  },
-  {
     "package": "phenorice"
   },
   {
     "package": "polyBreedR"
   },
   {
-    "package": "polymapR",
-    "oncran": false
-  },
-  {
-    "package": "polyqtlR",
-    "oncran": false
-  },
-  {
     "package": "poppr",
     "oncran": true
   },
   {
-    "package": "PROSPER",
-    "oncran": false
-  },
-  {
-    "package": "qgtools",
-    "oncran": false
+    "package": "prism",
+    "oncran": true
   },
   {
     "package": "qtl",
@@ -217,6 +267,10 @@
     "oncran": true
   },
   {
+    "package": "resevol",
+    "oncran": true
+  },
+  {
     "package": "rMVP",
     "oncran": true
   },
@@ -231,10 +285,6 @@
   {
     "package": "Rquefts",
     "oncran": true
-  },
-  {
-    "package": "rrBLUP",
-    "oncran": false
   },
   {
     "package": "rusda",
@@ -253,6 +303,9 @@
     "oncran": true
   },
   {
+    "package": "SISINTAR"
+  },
+  {
     "package": "soilDB",
     "oncran": true
   },
@@ -261,15 +314,15 @@
     "oncran": true
   },
   {
+    "package": "soiltestcorr",
+    "oncran": true
+  },
+  {
     "package": "sommer",
     "oncran": false
   },
   {
     "package": "SoyNAM",
-    "oncran": false
-  },
-  {
-    "package": "SpATS",
     "oncran": false
   },
   {
@@ -311,60 +364,6 @@
     "oncran": true
   },
   {
-    "package": "AlphaSimR",
-    "oncran": true
-  },
-  {
     "package": "Xpolaris"
-  },
-  {
-    "package": "soiltestcorr",
-    "oncran": true
-  },
-  {
-    "package": "metrica",
-    "oncran": true
-  },
-  {
-    "package": "landsepi",
-    "oncran": false
-  },
-  {
-    "package": "mvngGrAd",
-    "oncran": false
-  },
-  {
-    "package": "ALUES",
-    "oncran": true
-  },
-  {
-    "package": "AgroReg",
-    "oncran": false
-  },
-  {
-    "package": "MoBPS",
-    "oncran": false
-  },
-  {
-    "package": "prism",
-    "oncran": true
-  },
-  {
-    "package": "SISINTAR"
-  },
-  {
-    "package": "agromet"
-  },
-  {
-    "package": "ag5Tools",
-    "oncran": true
-  },
-  {
-    "package": "gosset",
-    "oncran": true
-  },
-  {
-    "package": "ClimMobTools",
-    "oncran": true
   }
 ]

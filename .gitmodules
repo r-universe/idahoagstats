@@ -3,9 +3,19 @@
 	url = https://github.com/idahoagstats/universe
 	shallow = true
 	branch = HEAD
+[submodule "ag5Tools"]
+	path = ag5Tools
+	url = https://github.com/agrdatasci/ag5Tools
+	shallow = true
+	registered = true
 [submodule "AGHmatrix"]
 	path = AGHmatrix
 	url = https://github.com/rramadeu/AGHmatrix
+	shallow = true
+	registered = true
+[submodule "AGPRIS"]
+	path = AGPRIS
+	url = https://github.com/edoardoBaldoni/AGPRIS
 	shallow = true
 	registered = true
 [submodule "agriCensData"]
@@ -18,6 +28,11 @@
 	url = https://github.com/myaseen208/agricolae
 	shallow = true
 	registered = true
+[submodule "agricolaeplotr"]
+	path = agricolaeplotr
+	url = https://github.com/jensharbers/agricolaeplotr
+	shallow = true
+	registered = true
 [submodule "agridat"]
 	path = agridat
 	url = https://github.com/kwstat/agridat
@@ -26,6 +41,21 @@
 [submodule "agriTutorial"]
 	path = agriTutorial
 	url = https://github.com/myaseen208/agriTutorial
+	shallow = true
+	registered = true
+[submodule "agromet"]
+	path = agromet
+	url = https://github.com/AgRoMeteorologiaINTA/agromet
+	shallow = true
+	registered = true
+[submodule "AlphaSimR"]
+	path = AlphaSimR
+	url = https://github.com/gaynorr/AlphaSimR
+	shallow = true
+	registered = true
+[submodule "ALUES"]
+	path = ALUES
+	url = https://github.com/alstat/ALUES
 	shallow = true
 	registered = true
 [submodule "apsimx"]
@@ -38,14 +68,9 @@
 	url = https://github.com/ncss-tech/aqp
 	shallow = true
 	registered = true
-[submodule "ascoTraceR"]
-	path = ascoTraceR
+[submodule "ascotraceR"]
+	path = ascotraceR
 	url = https://github.com/IhsanKhaliq/ascotraceR
-	shallow = true
-	registered = true
-[submodule "ASMap"]
-	path = ASMap
-	url = https://github.com/cran/ASMap
 	shallow = true
 	registered = true
 [submodule "asremlPlus"]
@@ -63,6 +88,11 @@
 	url = https://github.com/gdlc/BGLR-R
 	shallow = true
 	registered = true
+[submodule "biotools"]
+	path = biotools
+	url = https://github.com/arsilva87/biotools
+	shallow = true
+	registered = true
 [submodule "breedR"]
 	path = breedR
 	url = https://github.com/famuvie/breedR
@@ -73,14 +103,44 @@
 	url = https://github.com/jlisic/cdlTools
 	shallow = true
 	registered = true
+[submodule "ClimMobTools"]
+	path = ClimMobTools
+	url = https://github.com/AgrDataSci/ClimMobTools
+	shallow = true
+	registered = true
 [submodule "cpgen"]
 	path = cpgen
 	url = https://github.com/cheuerde/cpgen
 	shallow = true
 	registered = true
+[submodule "cropdatape"]
+	path = cropdatape
+	url = https://github.com/omarbenites/cropdatape
+	shallow = true
+	registered = true
+[submodule "cropDemand"]
+	path = cropDemand
+	url = https://github.com/FilgueirasR/cropDemand
+	shallow = true
+	registered = true
+[submodule "CropDetecR"]
+	path = CropDetecR
+	url = https://github.com/niconaut/CropDetectR
+	shallow = true
+	registered = true
+[submodule "cropgrowdays"]
+	path = cropgrowdays
+	url = https://gitlab.com/petebaker/cropgrowdays
+	shallow = true
+	registered = true
 [submodule "CropScapeR"]
 	path = CropScapeR
 	url = https://github.com/cbw1243/CropScapeR
+	shallow = true
+	registered = true
+[submodule "cropZoning"]
+	path = cropZoning
+	url = https://github.com/FilgueirasR/cropZoning
 	shallow = true
 	registered = true
 [submodule "desplot"]
@@ -128,11 +188,6 @@
 	url = https://github.com/muuankarski/faobulk
 	shallow = true
 	registered = true
-[submodule "FAOSTAT"]
-	path = FAOSTAT
-	url = https://github.com/cran/FAOSTAT
-	shallow = true
-	registered = true
 [submodule "FedData"]
 	path = FedData
 	url = https://github.com/ropensci/FedData
@@ -141,6 +196,11 @@
 [submodule "fertplan"]
 	path = fertplan
 	url = https://github.com/mbask/fertplan
+	shallow = true
+	registered = true
+[submodule "frost"]
+	path = frost
+	url = https://github.com/anadiedrichs/frost
 	shallow = true
 	registered = true
 [submodule "FW"]
@@ -156,6 +216,16 @@
 [submodule "ggfertilizer"]
 	path = ggfertilizer
 	url = https://github.com/wenlong-liu/ggfertilizer
+	shallow = true
+	registered = true
+[submodule "gosset"]
+	path = gosset
+	url = https://github.com/agrdatasci/gosset
+	shallow = true
+	registered = true
+[submodule "grapesAgri1"]
+	path = grapesAgri1
+	url = https://github.com/pratheesh3780/grapesAgri1
 	shallow = true
 	registered = true
 [submodule "GWASpoly"]
@@ -176,6 +246,11 @@
 [submodule "INLA"]
 	path = INLA
 	url = https://github.com/inbo/INLA
+	shallow = true
+	registered = true
+[submodule "landsepi"]
+	path = landsepi
+	url = https://gitlab.paca.inrae.fr/CSIRO-INRA/landsepi
 	shallow = true
 	registered = true
 [submodule "LinkageMapView"]
@@ -218,6 +293,16 @@
 	url = https://github.com/cropmodels/meteor
 	shallow = true
 	registered = true
+[submodule "metrica"]
+	path = metrica
+	url = https://github.com/adriancorrendo/metrica
+	shallow = true
+	registered = true
+[submodule "MoBPS"]
+	path = MoBPS
+	url = https://github.com/tpook92/MoBPS/tree/master/pkg
+	shallow = true
+	registered = true
 [submodule "nlraa"]
 	path = nlraa
 	url = https://github.com/femiguez/nlraa
@@ -233,11 +318,6 @@
 	url = https://github.com/augusto-garcia/onemap
 	shallow = true
 	registered = true
-[submodule "pedigreemm"]
-	path = pedigreemm
-	url = https://github.com/cran/pedigreemm
-	shallow = true
-	registered = true
 [submodule "phenorice"]
 	path = phenorice
 	url = https://github.com/cropmodels/phenorice
@@ -248,29 +328,14 @@
 	url = https://github.com/jendelman/polyBreedR
 	shallow = true
 	registered = true
-[submodule "polymapR"]
-	path = polymapR
-	url = http://github.com/cran/polymapR
-	shallow = true
-	registered = true
-[submodule "polyqtlR"]
-	path = polyqtlR
-	url = http://github.com/cran/polyqtlR
-	shallow = true
-	registered = true
 [submodule "poppr"]
 	path = poppr
 	url = https://github.com/grunwaldlab/poppr
 	shallow = true
 	registered = true
-[submodule "PROSPER"]
-	path = PROSPER
-	url = http://github.com/cran/PROSPER
-	shallow = true
-	registered = true
-[submodule "qgtools"]
-	path = qgtools
-	url = http://github.com/cran/qgtools
+[submodule "prism"]
+	path = prism
+	url = https://github.com/ropensci/prism
 	shallow = true
 	registered = true
 [submodule "qtl"]
@@ -298,6 +363,11 @@
 	url = https://github.com/cropmodels/Recocrop
 	shallow = true
 	registered = true
+[submodule "resevol"]
+	path = resevol
+	url = https://github.com/bradduthie/resevol
+	shallow = true
+	registered = true
 [submodule "rMVP"]
 	path = rMVP
 	url = https://github.com/xiaolei-lab/rMVP
@@ -316,11 +386,6 @@
 [submodule "Rquefts"]
 	path = Rquefts
 	url = https://github.com/cropmodels/Rquefts
-	shallow = true
-	registered = true
-[submodule "rrBLUP"]
-	path = rrBLUP
-	url = http://github.com/cran/rrBLUP
 	shallow = true
 	registered = true
 [submodule "rusda"]
@@ -343,6 +408,11 @@
 	url = https://github.com/samuelbfernandes/simplePHENOTYPES
 	shallow = true
 	registered = true
+[submodule "SISINTAR"]
+	path = SISINTAR
+	url = https://github.com/INTA-Suelos/SISINTAR
+	shallow = true
+	registered = true
 [submodule "soilDB"]
 	path = soilDB
 	url = https://github.com/ncss-tech/soilDB
@@ -353,6 +423,11 @@
 	url = https://github.com/ncss-tech/SoilTaxonomy
 	shallow = true
 	registered = true
+[submodule "soiltestcorr"]
+	path = soiltestcorr
+	url = https://github.com/adriancorrendo/soiltestcorr
+	shallow = true
+	registered = true
 [submodule "sommer"]
 	path = sommer
 	url = https://github.com/covaruber/sommer
@@ -361,11 +436,6 @@
 [submodule "SoyNAM"]
 	path = SoyNAM
 	url = https://github.com/alenxav/SoyNAM
-	shallow = true
-	registered = true
-[submodule "SpATS"]
-	path = SpATS
-	url = https://CRAN.R-project.org/package=SpATS
 	shallow = true
 	registered = true
 [submodule "st4gi"]
@@ -418,78 +488,8 @@
 	url = https://github.com/cbw1243/usdampr
 	shallow = true
 	registered = true
-[submodule "AlphaSimR"]
-	path = AlphaSimR
-	url = https://github.com/gaynorr/AlphaSimR
-	shallow = true
-	registered = true
 [submodule "Xpolaris"]
 	path = Xpolaris
 	url = https://github.com/lhmrosso/XPolari
-	shallow = true
-	registered = true
-[submodule "soiltestcorr"]
-	path = soiltestcorr
-	url = https://github.com/adriancorrendo/soiltestcorr
-	shallow = true
-	registered = true
-[submodule "metrica"]
-	path = metrica
-	url = https://github.com/adriancorrendo/metrica
-	shallow = true
-	registered = true
-[submodule "landsepi"]
-	path = landsepi
-	url = https://gitlab.paca.inrae.fr/CSIRO-INRA/landsepi
-	shallow = true
-	registered = true
-[submodule "mvngGrAd"]
-	path = mvngGrAd
-	url = https://github.com/cran/mvngGrAd
-	shallow = true
-	registered = true
-[submodule "ALUES"]
-	path = ALUES
-	url = https://github.com/alstat/ALUES
-	shallow = true
-	registered = true
-[submodule "AgroReg"]
-	path = AgroReg
-	url = https://github.com/cran/AgroReg
-	shallow = true
-	registered = true
-[submodule "MoBPS"]
-	path = MoBPS
-	url = https://github.com/tpook92/mobps
-	shallow = true
-	registered = true
-[submodule "prism"]
-	path = prism
-	url = https://github.com/ropensci/prism
-	shallow = true
-	registered = true
-[submodule "SISINTAR"]
-	path = SISINTAR
-	url = https://github.com/INTA-Suelos/SISINTAR
-	shallow = true
-	registered = true
-[submodule "agromet"]
-	path = agromet
-	url = https://github.com/AgRoMeteorologiaINTA/agromet
-	shallow = true
-	registered = true
-[submodule "ag5Tools"]
-	path = ag5Tools
-	url = https://github.com/agrdatasci/ag5Tools
-	shallow = true
-	registered = true
-[submodule "gosset"]
-	path = gosset
-	url = https://github.com/agrdatasci/gosset
-	shallow = true
-	registered = true
-[submodule "ClimMobTools"]
-	path = ClimMobTools
-	url = https://github.com/AgrDataSci/ClimMobTools
 	shallow = true
 	registered = true
