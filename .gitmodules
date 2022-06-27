@@ -123,8 +123,8 @@
 	url = https://github.com/FilgueirasR/cropDemand
 	shallow = true
 	registered = true
-[submodule "CropDetecR"]
-	path = CropDetecR
+[submodule "CropDetectR"]
+	path = CropDetectR
 	url = https://github.com/niconaut/CropDetectR
 	shallow = true
 	registered = true

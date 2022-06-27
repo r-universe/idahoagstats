@@ -92,7 +92,8 @@
     "oncran": true
   },
   {
-    "package": "CropDetecR"
+    "package": "CropDetectR",
+    "oncran": true
   },
   {
     "package": "cropgrowdays",
