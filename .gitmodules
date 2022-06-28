@@ -3,6 +3,11 @@
 	url = https://github.com/idahoagstats/universe
 	shallow = true
 	branch = HEAD
+[submodule "acdcR"]
+	path = acdcR
+	url = https://github.com/ysd2004/acdcR
+	shallow = true
+	registered = true
 [submodule "ag5Tools"]
 	path = ag5Tools
 	url = https://github.com/agrdatasci/ag5Tools
@@ -153,11 +158,6 @@
 	url = https://github.com/jendelman/diaQTL
 	shallow = true
 	registered = true
-[submodule "drc"]
-	path = drc
-	url = https://github.com/DoseResponse/drc
-	shallow = true
-	registered = true
 [submodule "DSSAT"]
 	path = DSSAT
 	url = https://github.com/palderman/DSSAT
@@ -176,11 +176,6 @@
 [submodule "epiphy"]
 	path = epiphy
 	url = https://github.com/chgigot/epiphy
-	shallow = true
-	registered = true
-[submodule "fabio"]
-	path = fabio
-	url = https://github.com/fineprint-global/fabio
 	shallow = true
 	registered = true
 [submodule "faobulk"]
@@ -243,11 +238,6 @@
 	url = https://github.com/frahik/IBCF.MTME
 	shallow = true
 	registered = true
-[submodule "INLA"]
-	path = INLA
-	url = https://github.com/inbo/INLA
-	shallow = true
-	registered = true
 [submodule "landsepi"]
 	path = landsepi
 	url = https://gitlab.paca.inrae.fr/CSIRO-INRA/landsepi
@@ -276,11 +266,6 @@
 [submodule "MapRtools"]
 	path = MapRtools
 	url = https://github.com/jendelman/MapRtools
-	shallow = true
-	registered = true
-[submodule "MCMCglmm"]
-	path = MCMCglmm
-	url = https://github.com/jarrodhadfield/MCMCglmm
 	shallow = true
 	registered = true
 [submodule "MegaLMM"]
@@ -318,6 +303,16 @@
 	url = https://github.com/augusto-garcia/onemap
 	shallow = true
 	registered = true
+[submodule "pedmod"]
+	path = pedmod
+	url = https://github.com/boennecd/pedmod
+	shallow = true
+	registered = true
+[submodule "pedometrics"]
+	path = pedometrics
+	url = https://github.com/Laboratorio-de-Pedometria/pedometrics-package
+	shallow = true
+	registered = true
 [submodule "phenorice"]
 	path = phenorice
 	url = https://github.com/cropmodels/phenorice
@@ -333,9 +328,9 @@
 	url = https://github.com/grunwaldlab/poppr
 	shallow = true
 	registered = true
-[submodule "prism"]
-	path = prism
-	url = https://github.com/ropensci/prism
+[submodule "qgg"]
+	path = qgg
+	url = https://github.com/psoerensen/qgg
 	shallow = true
 	registered = true
 [submodule "qtl"]
@@ -376,11 +371,6 @@
 [submodule "rnassqs"]
 	path = rnassqs
 	url = https://github.com/ropensci/rnassqs
-	shallow = true
-	registered = true
-[submodule "rnoaa"]
-	path = rnoaa
-	url = https://github.com/ropensci/rnoaa
 	shallow = true
 	registered = true
 [submodule "Rquefts"]

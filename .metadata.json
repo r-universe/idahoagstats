@@ -1,5 +1,9 @@
 [
   {
+    "package": "acdcR",
+    "oncran": true
+  },
+  {
     "package": "ag5Tools",
     "oncran": true
   },
@@ -115,10 +119,6 @@
     "package": "diaQTL"
   },
   {
-    "package": "drc",
-    "oncran": false
-  },
-  {
     "package": "DSSAT",
     "oncran": true
   },
@@ -131,9 +131,6 @@
   },
   {
     "package": "epiphy"
-  },
-  {
-    "package": "fabio"
   },
   {
     "package": "faobulk"
@@ -178,9 +175,6 @@
     "oncran": true
   },
   {
-    "package": "INLA"
-  },
-  {
     "package": "landsepi",
     "oncran": false
   },
@@ -201,10 +195,6 @@
   },
   {
     "package": "MapRtools"
-  },
-  {
-    "package": "MCMCglmm",
-    "oncran": false
   },
   {
     "package": "MegaLMM"
@@ -234,6 +224,14 @@
     "oncran": true
   },
   {
+    "package": "pedmod",
+    "oncran": true
+  },
+  {
+    "package": "pedometrics",
+    "oncran": true
+  },
+  {
     "package": "phenorice"
   },
   {
@@ -244,7 +242,7 @@
     "oncran": true
   },
   {
-    "package": "prism",
+    "package": "qgg",
     "oncran": true
   },
   {
@@ -277,10 +275,6 @@
   },
   {
     "package": "rnassqs",
-    "oncran": true
-  },
-  {
-    "package": "rnoaa",
     "oncran": true
   },
   {
