@@ -180,7 +180,7 @@
   },
   {
     "package": "LinkageMapView",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "lmDiallel",
