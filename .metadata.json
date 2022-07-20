@@ -242,8 +242,7 @@
     "oncran": true
   },
   {
-    "package": "qgg",
-    "oncran": true
+    "package": "qgg"
   },
   {
     "package": "qtl",
